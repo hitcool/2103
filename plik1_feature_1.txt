@@ -1,0 +1,2 @@
+1 wpis na nowym branchu feature_1
+2 wpis na nowym branchy feature_2
